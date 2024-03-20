@@ -1,2 +1,2 @@
 # Simon-Says
-Simon 
+Simon Says Game
