@@ -1,0 +1,40 @@
+h1,h4{
+    text-align: center;
+}
+
+.hero div{
+    height: 200px;
+    width: 200px;
+    border: 5px solid black;
+    margin: 20px;
+    border-radius: 15px;
+}
+
+.red{
+    background-color: red;
+}
+
+.green{
+    background-color: green;
+}
+
+.orange{
+    background-color: orange;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.hero{
+    display: flex;
+    justify-content: center;
+}
+
+.flash{
+    background-color: white;
+}
+
+.useflash{
+    background-color: green;
+}
